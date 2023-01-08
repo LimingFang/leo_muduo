@@ -1,2 +1,2 @@
 # leo_muduo
-For learning Muduo(cpp)
+For learning Muduo, io and Reactor pattern.
